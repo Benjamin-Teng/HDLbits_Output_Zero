@@ -1,5 +1,5 @@
 module moduleName (
-    ports
+    output zero
 );
     
 endmodule
